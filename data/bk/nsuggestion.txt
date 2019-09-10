@@ -1,0 +1,353 @@
+it should be an option to remove the ru language code from my app  language history  or an option to completly replace  fully replace the prevoius es  xap s
+provide a workaround for removing the ru language from the language history  i have no need for ru culture just for ru ru  but there is no way to remove ru from the language history if you ever posted your app with ru language support
+or add and implement an appreslib dll xxxx mui for the ru language culture in the documentation appreslib dll xxxx mui exist only for ru ru and not for ru culture  http   msdn microsoft com en us library windowsphone develop ff v vs   aspx thanks  tom please enable removing language code from the dev center language history for example if you ever selected ru and ru ru laguages and you published this xap to the store then it causes tile localization to show the en us default  tile localization which is bad
+i always use this feature  please fix asap
+its getting annoying please fix this
+please allow windows phone   file folder picker to have access to onedrive and store the location in futureaccesslist
+also  please allow onedrive folder to be stored locally like winrt
+this needs fixing as a number  priority
+it would be nice to give developers the option put a payment on hold when they reach the appropriate threshold and have the option to put it on top of the next due payment when they reach the threshold after that
+please remove that validation or validate according with my tax plan and not my country in the account
+please bring back the simplicity and efficiency of windows phone
+while i was building a web application  i ve noticed that single page applications with this url  http   www contoso com     will display blank page and only a refresh will load the page again can you please check that
+it would be great if you would add a remoteid to the calendars
+please add these properties so that we can support image tiling properly
+the lockscreen text attribute should be separated out from tile attributes
+what i want is the ability to record those alongside system provided etw events  so that i can see how my code s activity fits in with system behaviour
+please get back the old onedrive integration to windows phone
+moreover  it s better to have read only api for phone call history  so developer can help to make better phone call related app like android
+allow the messaging application to join in the default messaging application  hub message  for full interaction
+we need windows phone to synchronize its clock via the internet
+include an api to add  remove  deactivate tracking protection lists  tpl   to further drive down data usage  enable selective protection against rogue sites tracking  and just having a sense of control
+provide more help with understand text that coming from cortanan
+please cant we have an option in the wpappmanifest file to untick fast resume and allow wp  apps to not run in fast resume mode just like in wp
+allow nfc capable windows phones to pay from the wallet app using nfc at locations where card readers support it
+developers need create edit document from windows store apps
+provide access to cpu   gpu data in c
+so please provide the low level reading writing functionality for nfc devices already in the field
+please remove the cert process for these and allow them to be added  instantly
+that could be automatic too
+i recognize that when threshold arrives  code matching between windows and windows phone achieves     much of these may not matter anymore  but for the time being these would be nice additions
+this is a bug and should be fixed so that any media that is playing will be paused if you are interacting with cortanta
+the trial feature should be built in with automatic enforcement  user prompting  disabling  etc  just as it is in the windows store
+with the two stores combining  can we bring built in trial mode support to windows phone
+you should be able to start an app like the flashlight app directly from the notification center
+please add recent places to suggestedstartlocation in fileopenpicker api
+please provide access to calendar api to customize the day styles basing upon requirement
+please release lock screen api for all developers treat every devs equally
+now we want to bundle these apps
+we need this also in windows app store because
+i think microsoft needs to re consider about having splash screens
+when users click on app they should directly see ui no lags
+extend the mediaelement to support youtube videos  so simple
+i think this is a bug  because i think if the writeablebitmap decides to update the pixelwidth and pixelheight property  it should also update the pixelbuffer  or the data is inconsistent
+windows developers need apis to control tv tuners and display of other digital media on the same screen at the same time
+make multitasking a real thing  like seeing a video or having a mini calc when browse some thing
+you can limit number of apps according to the screen size
+provide an api to use cortana services within apps as well as provide implementable interface s  which expose app services to cortana  then cortana can call these methods and developers worldwide can extends it s functionality
+please add api s for sharing to reading list
+would become even more useful if say i could share to reading list from chrome extension or mac desktop or ios
+provide a way to get list of installed applications on the phone
+and my only wish is to format a datetime like the user wants to see it
+this should be added in future versions as it is still an important feature for some apps
+i would like microsoft to open up this framework to all developers
+but why not allow it to be used locally by sideloading or through the emulators
+i d like to record an audio video file while playing a audio file in the background
+however  there should be more of swipe gestures than the tap methods
+i would like the ability to pass the photo from my app to an app  of the user s choice via an app picker  that supports the selected photo type
+add a filter  crop  etc   and then the opened app can pass that edited file back to my app
+a thing that would be increbible is that your phone make a sound when you whistle or clap hands a certain pattern   wich could be preseted by the phone owner   so when you can t find your phone and you dont have a buddy around to text you  you can find it
+lockscreen   should be able to chose a tiny black outline around lettering so you can see what s written properly when you have a clear white lock screen
+should be able to put transparent  saved in pgn  lockscreens like wp  notification center   should be able to control the screen when notification center is half open
+should be able to control music   play  pause  next   previous   song info   directly from the notification center
+xbox music   should be able to swap music player sideways
+pictures   needs to open on albums instead of all the pictures mail center   would be awesome if it opened on a page where you have a seperate for each of your accounts
+should be able to put transparent  saved in pgn  lockscreens like wp  notification center   should be able to control the screen    more
+could you please have a report that includes the prices  before the final payment
+make necessary conditions so that developers choose proper  representing application  high quality images as application symbols in store matching modern ui now many apps has simply ugly icons pixelated android like  pirated  misleading
+please arabic keyboard not found in lumia  please support an arabic
+add xap support for some apps like explorer and opera
+the software needs access to sky   one drive or a option so you can send files you have stored on there
+add payoneer as a payment method for windows phone store   windows store   pubcenter earnings
+need nd filter attachment grip case
+i would like to have one to be able to do hq software rendering using directd
+since umdf usb drivers are absolutely safe from harming the system thus guarding from penetrating the sp networks  it would be a good idea to allow rd party registered device driver developers to be able to develop umdf signed drivers  submitted for testing and approval for such devices as i mentioned before
+a developer would like to ease the app submission process by being able to upload an app submission as a single archive package per submission
+this archive  could be a zip file  should contain all of the meta data  could be as an xml file  and supporting files  e g   xap  screenshots  etc
+optionally  it would also be great for this capability to support selection of markets and price points that the app is intended to target
+support the windows media editing api on windows
+change the cellular sim back to auto switch to wifi as preferred network the new manual data connection management is very annoying and result in hi data usage on the cellular network
+you should be able to select a default application for certain functions
+i would like to be able to tell the system to always open with skype
+please consider adding an option to erase a file by overwriting the bits with garbage and also the catalog entry file name
+hey  please please make the classes in above framework like songcollection  playlists etc immutable and unabstract
+further  extend background agent player to play not only audio tracks but song as well  thanks
+add  more properties for gridviews controls
+i think it should have been thought more to be like bb hub
+it would be much more comfortable to be able to read the entire notification in the center of notifications for wp
+having the means to inspect your app or site needs to be improved greatly
+ideally  it would be great to transfer an app including its iaps  all intact
+put back all games in games folder
+be responsible and give more   specific details  why an app failed rather than pointing a policies which talks about several things
+easy fix add copy and paste function for adding figures and copying out figures
+needs copy   paste functions to import export figures in and out of the calculator
+i would be convinient if the copyandreplaceasync method would return something similar to the copyasync method
+let s make windows phone more colorful
+all apps can be sort by name  date installed  most used       official app folder for all windows phones   name group like windows   why not make settings like control panel in windows
+please do the same for windows phone store unless you want to leave the developers and therefore the end users let down because of sub pair support quality
+please do the same for windows phone store unless you want to leave the developers and therefore the end users    more
+add pinchin and pinchout events  they are common events
+make the wallet app back to where it was i miss putting notes on the accounts and miss the bar codes and in other feedback anyway to get cortina to read emails too
+please develop a new type based on string i e
+they shouldn t be restricted like this
+so please develop two variants of windows phone os
+make sd boot fresh each time phone is restarted or double files with nothing in them to play then error
+wp need to provide api s that allow developers to develop apps like app locker  that locks specific apps   using phone with lock not enough
+hi  please add the from to options right after download new email under each email account to specify when the phone is allowed to check emails
+pleas allow in the wmappmanifest a selection box to force legacy resume mode so my wp app can function just as it did in wp
+selecting apps updated message in windows phone   notification center should jump directly to app download history  instead of jumping to the store app but not showing the history
+please provide a quick menu for windows phone   something comparable to win x menu in windows     but with possibility to edit and add menu items by the user
+the menu should be triggered by press and holding the standard windows key
+make it possible to choose different sounds for different apps
+hey i thought it would be really useful if users could add a homepage to their internet explorer for their wp like they would on a desktop pc
+because i receive a lot of spam flashsms which i delete immediately  i need a possibility to add phone numbers to blocked list manually
+for security reasons  i d really like to see an option that if the high quality backup via wifi is enabled and if the phone is not currently connected to wifi  then the phone automatically creates resized  smaller  photo and uploads it via data to the cloud and then delete s the resized photo from the phone
+please add the possibility to open html files that are located in the folders in the phone s memory
+can there please be an app that denies access to an app unless given a correct pin
+can microsoft corporation make a similar app  please
+i would like to be able to pull in bing news search results for a specified keyword
+we should be able to use descriptive text overlays in our screenshots  it allows us to better point out what the screenshot is showing
+hi is it possible to add proceeds since last payment information in the windows phone dev center applications
+i would like to get short videos in fullscreen instead of picture on lockscreen
+it would be nice to be able to load xaml from string without freezing ui   it could easily take over ms to load a short bit of xaml
+it would be extremely helpful if the reminder alarm api supported creating a reminder for specific days of the week
+it was good if we could set the app or in app product to be free for one day for example and return back after that
+please provide a photocroptask that takes an image byte    and provides the same crop tool
+include a pixelheight and pixelwidth as optional parameters so an aspect ratio can be included
+microsoft should do approach with developer aplication service and makers of office space in order to them to make the aplication run on windows phone             for all brand  nokia  htc  samsung etc
+extend the schedulednotification recurrencetype options beyond daily  weekly  monthly  endofmonth  yearly to allow more options  for example  every  days  every  weeks  every quarter  every  month  etc
+please come back with previous solution
+it would be cool to allow the applicationbar to have more icons available
+it would be also cool to allow for more than one application bar per page  so you could specify one at the top  left  bottom or right
+the bottom could be quick links while the top or left side could be used for navigational purposes
+please combine all windows phone skds into one installation file  so people download only one file and then check each version of wp sdks that they want to install
+hi please extend song class with more useful properties such as lastplayeddate  addeddate
+and optimize songcollection to support similar filters
+please improve that
+ideally i would like to see a graph with both  of purchases and purchase price plotted against time  this would allow me to quickly see a change in rate of purchase vs price
+ideally i would like to see a graph with both  of purchases and purchase price plotted against time  this would allow me to quickly see a change in rate of purchase    more
+i think there should be a casual genre section as a lot of apps don t fall into any specific section already listed
+so we need improvement timetrigger class with alarmapplicationmanager accuracy
+for rss allow us to set custom settings for notifications and also allow us to enable the settings for users so they choose if they want notification or not
+or allow infinite scrolling instead of default of  items  when a user scrolls down the list
+why not add a setting to the inner circle that allows me to turn off the ringtone and let it vibrate only
+please make bookmarks for podcasts persistent after moving to another podcast and coming back
+it will be very useful if user can scan custom qr code from other screen or poster from phone search   vision function and launch app via associated uri saved in qr code
+if they want to compete with android and iphone  a good direction navigation system app is must on windows phone
+hence some reasonable feature should be implemented on app studio onedrive to make this possible
+as such  please make the installation of the sdk optional during the sdk installation
+it would be helpful to be able to launch the calendar for a specific day i e i tell the user you have x appointments today   would you like to review them
+i would like to be able to enable wp alerts be forwarded to xbox one when i am near it or manually configured for it
+allow apps to download data like pocket for offline viewing
+i want to implement certificate pinning for additional security in my app and therefore i need an api to read the values of individual x  certificates
+so what i suggest is give flexible background service for development and notify user while installing the app about the background services that will be running and battery consumption it might cause and then user can decide to install the app or not
+it will be great  if app can access files in documents dir
+it would be greater if we could disable the close function while doing important tasks like writing to the storage  or similar
+would be good if some of these tools could be developed by the support of cellular data in the network api
+have an api for an application to interact with and listen for incomming connections from paired bluetooth devices while in background
+for the most time the watch is disconnected from the phone  but from time to time it could connect to a service running on the phone  maybe timed  maybe because user presses a button on the phone  to send a request  which the service on the phone then handles  some additional data transfer between the phone and watch and the phone and some cloud service may be involved  the actual trigger from device to phone could be done with bluetooth le if listening for incomming spp connections is too much of a drain as long as it would be possible for an application to do some background processing and data transfer based on triggers comming from external hardware accessories
+please provide a api to get the signal strength of a particular bluetooth device  so that we can estimate the distance between windows phone and the device
+allow custom uri s in internet explorer  like nabto   device company net
+basically implement the iinternetprotocol family of com interfaces on windows phone  and allow us to add our own protocol handlers  in the registry    it is possible on windows
+batterymanager should provide mechanism to tell us whether phone is plugged in ac or using usb
+it ll be great to have batterysource usb and batterysource ac  when plugged in  and batterysource battery  when not plugged in
+that would be very nice for all the developers out there waiting for their app so become reality
+so i am suggesting that microsoft implement a system to show a consumer all the ratings and reviews
+remove the lock screen and make it a notifications screen where you can see everything that happened until interacted with on the phone by simply pressing the lock button on this screen and the logo of the application of the communication provides a small preview of a soft black and white and also allow us to access it only touched his notice
+for a phone  hear and function called main  so i need the driver api and identify the data call  recording      for example  get the phone number to call to display information based on the number of phone customers  prepare for new sales transactions over the phone
+update the wpdev feedback app
+i think windows phone should make that happen in conjunction with their supporting xamarin    and potentially hire me as a developer to help
+would like to change the view of the contact being displayed
+also i would like to add more extension points to the contact details that are currently captured
+the software should allow javascript to be used through internet explorer
+we need to be able to use third party bluetooth equipment
+i can understand that tapping on the reminder cannot take me to the app if the screen is locked  but at least  give me a possibility to unlock the screen
+if this is working as designed  then i thing the navigationuri in the reminder is unnecessary and should be marked obsolete  or the documentation should be updated with a limitations on the lock screen
+please don t kill  ram devices in the future with new update   also ios  still use full mhz cpu and it s still good   use some file paging on internal rom but don t kill the performance please
+allow downloading of submissioned  xap files in windows phone application publish submission process
+build support for bullets and numbering into the paragraph class with properties something like this numberstart int      inherit from previous run numberstyle enum  none  bullet  arabic  letter  roman  numberflags enum flags  uppercase  dottedlevels  numberlevel int make numberstyle default to none and all this is non breaking
+provide an api to list all the installed applications in a wp device this functionality can be enable once the user enroll successfully through company app
+would be nice if that was possible
+please give us api for tfs so we can connect to tfs server  see all our projects and users  manage tasks  manage code versioning and etc
+i think you need to make a different notification area
+why don t you use the winpho style
+facebook for winpho needs better integration with facebook
+it would be extremely helpful if the emulator could use webcams as camera emulation
+improve microsoft account login usability in app
+i just want to tell you that it will be good if you give option to lock the applications specifically like sms
+it would be great to see this circumvented somehow
+one possibility  instead of having a top charts style listing  where the most popular apps are displayed to every phone anywhere  create a new form of distribution  where the results are randomized every time a user looks at the marketplace
+highly rated apps should appear near the top more  and they should appear less and less frequently and the rating of the app dwindles
+it seems to me that all good apps games should have a chance at decent exposure in the top charts  and waiting to be featured just isn t worth it
+another option is to do this with the featured apps in the marketplace
+instead of ten featured games per day which all users see  it would be better for each user to see a random set of games each time the marketplace is viewed
+there are a lot of reasons why this might be difficult  but i feel that with a little bit of thought this could be a very profitable idea  both for developers and for microsoft
+highly rated apps should appear near the top more  and they should appear less and less    more
+need an api to hide cprog exe and bring other application to front ground
+please implement style triggers for windows phone xaml  baml
+i want to be able to refund a purchase that a customer made   both in app products and paid downloads
+i need a way to remove files from my wp device which have been disliked
+if i have an app that shows a filtered subset of a user s contacts  i should have a way to click on that user and show the user s details in the native experience
+a sample project for using hawaii ocr api would be very helpful for the developers also need help with how to use image pre processing techniques and supported image processing libraries on wp to improve ocr accuracy
+it would be much preferable to remove it from the certificatio nprocess
+please  provide access to internal too
+please expose the id property for contacts and appointments
+please take this into consideration and make the id public  maybe with a new capability requirement
+i would like to ask microsoft to give us a tool option in emulator  with which we can take screenshots once  in one emulator and it will produce screenshots in all resolutions and all languages supported by our app
+as an app developer working with custom bluetooth devices  i need to be able to communicate with them in an unpaired scenario
+a developer should have the possibility to write his own complete implementation of background audio player or the built in one should at least provide the possibility of gapless playback or changing audio title album without pausing playback
+so we need aupport for such feature in xaml code like in silverlight
+also need api for voice record with background agent
+provide api to easy save settings of an app online  and restore after unnstall or reset change phone   using a microsoft account  http   wpdev uservoice com forums  dev platform suggestions  microsoft account login  and online service  skydrive azure
+allow users to take screenshots  when the phone is muted  without sound
+these page templates should be updated to use the medium sized  semibold font by default for the title text
+this should also be fixed in the wp sdk  where all page templates  including the pivot template  still use phonetextnormal style for the title
+this should also be fixed in the wp sdk  where all page templates  including the pivot    more
+it would be helpful if we have an equivalent api available in c
+allow a user to change the ring tone or sound of new txt messages coming to the phone
+can you get rid of this space to enable more icons to fit to the homescreen
+add a boolean to the cameracapturetask to optionally add the picture taken to the camera roll
+an app for online clothes shopping so that we are able to buy clothes from our phones should be made
+it s not exposed by the sdk  please fix it
+we need a way to save videos to the camera roll
+it will be gode to can add custom sound to toas notifications
+for example  allowing the user to view the time it would take to reach full charge on usb vs induction
+please add the capability to view voltage and mah  or  if possible  another method to check if the device is charging with usb power or wireless power
+for example  allowing the user to view the time    more
+we need different sound levels   sound level for system  for alarm clock  for music radio  and different for keyboard
+i want to have sounds enabled to keyboard but not at highest level  also i want to listen to radio  throuth the night  and be sure that the next morning the alarm clock will sound as high as possible to wake me up
+it would be nice to schedule a reminder to repeat at x hours
+i think that there should be a nice feature were you can be able to slide the status bar down and view all the push notifications that you got but you didn t view  just like android and ios  but the best part is that it fixes many problems like when people wanted a short cut to turn wifi on and off and data on and off so that would be a nice feature to have
+i strongly think that more background color s should be there  like instead of just black and white  have blue  red  green and stuff like that and more accent colors
+make it so the xbox app has smart glass in it without having to install the app directly but put the games in a different folder
+better music player  i like the zune on interface or xbox music interface but i would like it so you can do more customization with it and have it so we can move a scroller on the bar that tells you how many minutes have you been playing the song  so that we can skip through the music to our favorite part
+better people app  i like the people app with the ui and the facebook  twitter  linkedin integration but the thing i would like most is if you made the top thing that said people was a smaller text  it take to much space on the app
+make it so the tiles can be see through and the background can be a background image  that would look nice
+better marketplace   i would like a new ui
+mobile teethering  i would appreciate this to be on a new wp update for wp  and wp   but  would be fine
+i strongly think that more background color s should be there  like instead of just black and white  have blue  red  green and stuff    more
+please make an option like windows phone  to mark several messages at the time of deletion    as tapping and holding of every message and deleting take more time and it makes angry
+please make an option to mark messages for windows phone
+allow the use of desktop keyboard to interact with wp emulator similar to the current mouse functionality
+wish there was a way for mails  contacts calendars etc to be pulled from an owa url into the email account definitions
+i understand the reasoning for not allowing the user to have access to the mailboxes in the phone  but there should be an api to enumerate through accounts and get their statistics  like the number of unread emails  number of important emails  and the total e mail count
+wish i can undo that patch
+also if the new map has route feature it should be usable
+please make sure that any data accessible from the contact details page is made available to the contact class
+improve its data base and functionality
+market it more as a visual assistant
+scan it and bing vision give u a list of the nearest theatres and show times  or post a reminder in your calendar
+scan it and bing vision give you a list of the nearest store that have them in stock
+as the current time sync does not work correctly  at least in the netherlands  i want the option to build my own
+allow zune music   video tile in windows phone  to fetch metadata and display artist images and artist names in india too     settings applications  lock wallpaper  show artist image when playing music under lock screen
+please make it available    as it also makes the zune tile live
+it would be very helpful the same functionality also in the windows phone emulator
+add an option for remove the image in a contact
+if you guys employed a  net module like imageresizing net on your hosting clusters  you could reduce it to  screenshots per actual screenshot per language by only submitting wxga and p images  and then autoscaling the wxga images down to wvga through an image handler
+if you guys employed a  net module like imageresizing net on your hosting clusters  you could reduce it to  screenshots per actual screenshot per language by only submitting wxga and    more
+add support for office to directly send presentation to wireless projector
+please return to the windows phone dev center for more information  x   message
+i would like the option to schedule my mail synchronization
+create a better more fluently flowing weed strain app with better pictures and  d spinning pictures available too
+can you please fully unlock windows phone
+change search engine of internet explorer  etc
+i d love to have the option of auto capitalising the letter i when it s typed on its own
+also  it would be really useful to have an apostrophe available on the main text entry screen
+allow us to query device information from a   native c   application so we are not forced to use c
+please add support for icons with a transparent background in the games list
+it will be a good idea if you introduce a trust center or maybe trusted apps  which requires more review form microsoft before publishing maybe
+therefore  it would be great if devs could put apps in the marketplace offering two    more
+please leave your email so i can sent you the information
+it would be great if i could display an option to lock the screen  which would basically lock the screen  but show my own page as the lock screen
+adding this feature will help alot
+please add these to the platform
+a grantaccountaccesstask could  for example  ask the user for temporary access  including what permissions are needed
+a user should be able to deside between power drain and functions
+net should support zip  system can use  why not give developers
+http   news cnet com      microsoft soundwave its like kinect but skips the cameras  please try to make that happen
+it would be great to have this feature
+can we have a sortable observable collection for wp
+pls fix it asap
+allow binary access would allow custom vizualizations  media players  and audio enabled games
+this would also be very nice so that you could add a  create playlist  feature into the music video hub
+change orientation of the device
+wp need video calls to be able
+please give that back
+however  this must be updated by microsoft
+and please force adobe to update their pdf viewer  its terrible     word displays documents terribly
+and please force adobe to update their pdf viewer  its terrible    more
+it s very helpful to give a pertinent feedback to the user
+even though default keyboard is nice  i d like to see a swipe version
+allow developers to implement an interface s  on a user control and submit that instead of just filling in a tile data structure
+this approach will provide an elegant way of accessing constants both in code and xaml pages in silverlight  and for my immediate need in windows phone
+please please incorporate this in future release
+so with that  i really do appreciate the fact the marketplace and developer api s allow for demo mode  and i sincerely hope that the underhanded practices mentioned won t slip through in the future
+add a search button inside each sms conversation  to find a specific thing you said
+i want to be able to turn it on off from an app
+i really need this and i can t call every day custommer care support to see my balance  to buy net and etc
+u guys need to fix that or i will buy nokia  which is way better than this sht
+display html that users can interact with  i e
+you shouldn t be charging   for service like this
+instead of making a new todo list app  let me extend the native one
+in addition  the user should be able to take a scree shot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen  a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are completly green a photograph noise will occur allow with a sudden screen flare to tell the user the screen shot has been taken and saved in the saved images folder the mutitasking area should have every app that you have opened in it
+at a minimum i need to have  images that are auto selected based on the phone s current theme
+checkboxes maybe
+apps need a way to work together
+as an alternative to giving write access to calendar  which can be hard to get a go on for security reasons   let us at least open an appointment directly in the calendar app
+especially if we also can have a delete appointment chooser  user will need to confirm deletion
+please release shelltile tiledata   function in next build
+in addition to the existing profiler tool  a network activity profiler should be given so that we can analyse network activities that are happening  potentially helping in troubleshooting cases wheter network activites are becoming bottleneck for app responsiveness
+qrcode should support chinese
+create more free good games  and everyone have fun
+if the sdk could run on osx i d be actually able to create apps for wp
+might be nice to have a nice button  add to favorites
+it would be nice if wp supports this
+would be cool to know if app qas opened using voice commands  so if app has its own voice capability it can know to start listening right away
+have the possibility to use category of outlook  on wp for contact email calendar
+allow two level off access to low level api
+plz fix this
+there it would be better if we havent have to upgrage software via zune it is timefull and useless there should be delta upgrades ota
+could a smart dial please be finally applied to the phone app
+please implement
+it would be very helpfull to have an abbility to copy a part of text out of a message
+allow user to send video  audio and more pictures in an mms now only one pic is supported
+it would be nice if we had finer access so we could specifically get  say  the postcode
+imdb should open to the star wars page directly from bing s search results
+if i dont like someone elses idea allow my   votes to takes votes off their vote count on a   vote basis
+let us open up the phone application  here the the user can see callhistory
+also let us open the call history page both are usefull for smart dialing apps
+an app can at least have a button directly to call history so user can see call history  since a direct api for call history is not given due to security reasons
+file transfer should pause when a call is made or comes in
+please improve the performance in next wp release
+it would be very useful for some audio applications to turn the speaker on while headset is connected
+i would suggest a common credential store such as accounts where users would need to be prompted so the application could access the token  username or password
+there should be a way to test applications on real devices without registering in the app hub  because a private person  perhaps  develops an application over a long time and so he pays   each year  only that he can test the application on his mobile
+there should be a way of registering for this  without paying  only for publishment you have to pay
+developers need a way of sharing data between applications
+share variables between applications in something that could be called desharrapamientos instead of isolatedstoragesettings
+provide automaticaly calendar and e mail views in multi task screnn
+allow chatting in threads with google talk  similar to how facebook chat is implemented in threads
+we need an alternative way to delete just a piece of conversation  or a fast way to select all message we want to delete
+why not allow a black background with white text when reading e mail conversations
+you can improve this feedback forum by making it work right
+allow to read data from excel
+we need the ability for developers to add relevant tags to their app descriptions  we then need the ability to search for apps with those tags  tags should also be verified during app submission to ensure theyre relevant dont know about anyone else but im fed up of the marketplace being swamped with total rubbish  it would be nice to see apps that im interested in instead of a thousand apps that i have no interest in
+it will be helpful for many developers if a few sample new project templates which show when and where variables can be created  instantiated so that better app experiences can be given to users
+remove useless app or the app uses fake icon  e g
+allow to see history for a user group
+add a ie like control that support functions like  get url of the current page   which support  open in new tab
+for this i would like an user id  anonymous  so my data move to my other phones and delete from phones without logged in live account
+there should be a random id instead after every reset
+to become regionally recognized  i believe windows phone devices languages should be regionally supported
+bing music search should add the ability to learn about the artist and to get the song lyrics for the song it hears
+recognition is very accurate  it should be easy to add two buttons for this
